@@ -8,13 +8,13 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="SalesforceConn">*.*</value>
+    <value name="SalesforceConn">1.0</value>
   </record>
   <value name="listACL">Default</value>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <null name="build"/>
-  <null name="description"/>
+  <value name="build"></value>
+  <value name="description"></value>
   <value name="created_date">22-08-2024 14:03:14 IST</value>
   <null name="extendedProperties"/>
 </Values>
